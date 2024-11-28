@@ -1,5 +1,4 @@
 # Road-Accident-Analysis
-# Road_accident_analysis
 ## Project Overview
 This project focuses on analyzing road accident data to identify trends, key performance indicators (KPIs), and insights into road safety. The dashboard and associated sheets provide a comprehensive view of accidents categorized by time, location, and road type.
 ## Features
@@ -48,6 +47,7 @@ Road Type Insights:
    Slip road: 882 casualties
 Code link:-
 -<a href="https://1drv.ms/x/c/038bcaec5d025f00/EcLN6br0tQdImJaE5y10uMUBqJj-tW20C98JQVe3-XXFAg?e=yLvg0i">Excel File<a>
+
 ##Conclusion:-
 This dashboard highlights critical insights into road accidents, offering actionable data for policymakers and traffic authorities to improve road safety. The monthly trends reveal accident peaks, while road type analysis identifies high-risk areas.
 
