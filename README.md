@@ -1,26 +1,33 @@
 # Road-Accident-Analysis
 Project Overview
+
 This project focuses on analyzing road accident data to identify trends, key performance indicators (KPIs), and insights into road safety. The dashboard and associated sheets provide a comprehensive view of accidents categorized by time, location, and road type.
 
 Features
+
 Key Performance Indicators (KPIs):
 
 Total Number of Casualties: 134,613
 Monthly trends in casualties (2021–2022)
 Accident counts categorized by road types
+
 Trend Analysis:
 
 Casualty trends over months in 2021 and 2022
 Insights into accident-prone months and road types
+
 Categorical Analysis:
 
 Casualties segmented by road types:
+
 One way street: 3,567 casualties
 Slip road: 882 casualties
 Others: Various smaller categories
+
 ##Excel file contains the following sheets:
 
-KPI: Likely contains the key performance indicators. Dashboard: Possibly an overview of metrics and visuals. Monthly trend: A time-based analysis of data trends. Road type: Insights based on road classifications. Data Analysis: Additional in-depth insights or calculations. Data sheet: The raw data underlying the analysis. Other Sheets (Sheet3, Sheet4): Likely placeholders or auxiliary sheets. I'll now explore the relevant sheets (KPI, Dashboard, Monthly trend, Road type, and Data Analysis) to identify metrics and insights for your GitHub documentation. ​​
+KPI:
+Likely contains the key performance indicators. Dashboard: Possibly an overview of metrics and visuals. Monthly trend: A time-based analysis of data trends. Road type: Insights based on road classifications. Data Analysis: Additional in-depth insights or calculations. Data sheet: The raw data underlying the analysis. Other Sheets (Sheet3, Sheet4): Likely placeholders or auxiliary sheets. I'll now explore the relevant sheets (KPI, Dashboard, Monthly trend, Road type, and Data Analysis) to identify metrics and insights for your GitHub documentation. ​​
 
 ##The extracted content suggests:
 
